@@ -15,7 +15,7 @@ Unity
 
 Демо
 Демо сервиса доступно по адресу: 
-
+https://drive.google.com/file/d/1-vdg1xp3AJpMvhhCi2_qR7y4xWV7fuDy/view?usp=sharing  - апк под андроид
 
 СРЕДА ЗАПУСКА
 
